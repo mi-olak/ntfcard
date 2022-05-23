@@ -50,7 +50,7 @@ future focus will be on writing clean and efficient codes.
 
 ### Useful resources
 
-- file:///C:/Users/User/Documents/www.w3schools.com_by%20pinoysourcecode/css/css3_flexbox.html - helped with more examples on using flexbox.
+-https://www.w3schools.com/css/css3_flexbox.asp  - helped with more examples on using flexbox.
 
 ## Author
 
