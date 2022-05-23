@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [https://mi-olak.github.io/ntfcard/]
+- Live Site URL: [ https://mi-olak.github.io/ntfcard/ ]
 
 ## My process
 
@@ -50,12 +50,12 @@ future focus will be on writing clean and efficient codes.
 
 ### Useful resources
 
--(file:///C:/Users/User/Documents/www.w3schools.com_by%20pinoysourcecode/css/css3_flexbox.html) - helped with more examples on using flexbox.
+- file:///C:/Users/User/Documents/www.w3schools.com_by%20pinoysourcecode/css/css3_flexbox.html - helped with more examples on using flexbox.
 
 ## Author
 
 - Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@mi-olak](https://www.frontendmentor.io/profile/mi-olak)
+- Frontend Mentor - [@mi-olak ]( https://www.frontendmentor.io/profile/mi-olak )
 
 
 
