@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://mi-olak.github.io/ntfcard/]
 
 ## My process
 
@@ -46,19 +46,16 @@ i was able to gain more experience using css flexbox. i found it considerably ea
 
 ### Continued development
 
-future focuis will be on writing clean and efficient codes.
+future focus will be on writing clean and efficient codes.
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+-(file:///C:/Users/User/Documents/www.w3schools.com_by%20pinoysourcecode/css/css3_flexbox.html) - helped with more examples on using flexbox.
 
 ## Author
 
 - Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@mi-olak](https://www.frontendmentor.io/profile/mi-olak)
 
 
 
