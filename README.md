@@ -27,8 +27,6 @@ Users should be able to:
 
 
 ### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [ https://mi-olak.github.io/ntfcard/ ]
 
 ## My process
@@ -54,7 +52,6 @@ future focus will be on writing clean and efficient codes.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@mi-olak ]( https://www.frontendmentor.io/profile/mi-olak )
 
 
