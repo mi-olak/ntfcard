@@ -44,7 +44,7 @@ i was able to gain more experience using css flexbox. i found it considerably ea
 
 ### Continued development
 
-future focus will be on writing clean and efficient codes.
+Had some major issues with adding the hover effect, more emphasis on this for the next project.
 
 ### Useful resources
 
